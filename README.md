@@ -22,7 +22,7 @@
 
 ---
 
-## 01 / About
+## About
 
 I'm a **Deep Learning Engineer** focused on building practical AI systems across **Computer Vision, Machine Learning, LLMs, and VLMs**.
 
@@ -32,7 +32,7 @@ I enjoy working where research meets engineering, turning ideas and experiments 
 
 ---
 
-## 02 / What I Build
+## What I Build
 
 <table>
 <tr>
@@ -40,11 +40,11 @@ I enjoy working where research meets engineering, turning ideas and experiments 
 
 ### Computer Vision
 
-* Image understanding
-* Face recognition
-* Object detection
-* Image processing
-* Visual AI systems
+Image understanding
+Face recognition
+Object detection
+Image processing
+Visual AI systems
 
 </td>
 
@@ -52,11 +52,11 @@ I enjoy working where research meets engineering, turning ideas and experiments 
 
 ### Generative AI
 
-* Large Language Models
-* Vision Language Models
-* Retrieval-Augmented Generation
-* Multimodal AI
-* AI applications
+Large Language Models
+Vision Language Models
+Retrieval-Augmented Generation
+Multimodal AI
+AI applications
 
 </td>
 
@@ -64,11 +64,11 @@ I enjoy working where research meets engineering, turning ideas and experiments 
 
 ### AI Engineering
 
-* Model training
-* Fine-tuning
-* Inference
-* Optimization
-* Deployment
+Model training
+Fine-tuning
+Inference
+Optimization
+Deployment
 
 </td>
 </tr>
@@ -76,7 +76,7 @@ I enjoy working where research meets engineering, turning ideas and experiments 
 
 ---
 
-## 03 / Technology
+## Technology
 
 ### Languages
 
@@ -106,7 +106,7 @@ I enjoy working where research meets engineering, turning ideas and experiments 
 
 ---
 
-## 04 / Currently Exploring
+## Currently Exploring
 
 ```text
 Computer Vision
@@ -120,7 +120,7 @@ Scalable AI Systems
 
 ---
 
-## 05 / Experience
+## Experience
 
 ### Deep Learning Engineer
 
@@ -138,7 +138,7 @@ Worked on practical machine learning and deep learning projects while developing
 
 ---
 
-## 06 / Selected Projects
+## Selected Projects
 
 <table>
 <tr>
@@ -188,7 +188,9 @@ Exploring architectures, models, optimization techniques, and practical AI syste
 
 ---
 
-## 07 / Engineering Principles
+## Engineering Principles
+
+<div align="center">
 
 ```text
 Build
@@ -202,11 +204,13 @@ Improve
 Repeat
 ```
 
+</div>
+
 I prefer understanding what happens underneath a system rather than treating models and frameworks as black boxes.
 
 ---
 
-## 08 / Beyond Engineering
+## Outside of Work
 
 ```text
 Sketching
@@ -217,23 +221,13 @@ Reading
 
 ---
 
-## 09 / GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=rafay-ai&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="170"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafay-ai&layout=compact&hide_border=true&theme=transparent" height="170"/>
-
-</div>
-
----
-
-## 10 / Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rafay-ai/rafay-ai/output/github-contribution-grid-snake.svg" alt="Contribution Graph"/>
 
 </div>
 
