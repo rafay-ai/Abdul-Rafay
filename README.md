@@ -1,63 +1,74 @@
 <div align="center">
 
-# 👋 Hey, I'm Abdul Rafay
+# Abdul Rafay
 
-### Deep Learning Engineer | AI • Computer Vision • LLMs • VLMs
+**Deep Learning Engineer**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Deep+Learning+Engineer;Computer+Vision+%7C+Machine+Learning;Building+Practical+AI+Systems;LLMs+%7C+VLMs+%7C+Multimodal+AI;Turning+Ideas+Into+Working+Systems" alt="Typing SVG" />
+`Computer Vision` · `Machine Learning` · `LLMs` · `VLMs`
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=rafay-ai&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
+<a href="https://github.com/rafay-ai">
+<img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
+<br>
+
 ---
 
-## 👨‍💻 About Me
+## 01 / About
 
 I'm a **Deep Learning Engineer** focused on building practical AI systems across **Computer Vision, Machine Learning, LLMs, and VLMs**.
 
-My work covers the complete AI development cycle, from **data collection and preprocessing** to **model training, fine-tuning, evaluation, and deployment**.
+My work spans the complete AI development cycle, from **data collection and preprocessing** to **model training, fine-tuning, evaluation, and deployment**.
 
-I enjoy working at the intersection of **research and engineering**, turning ideas and experiments into systems that can actually be used.
+I enjoy working where research meets engineering, turning ideas and experiments into reliable systems.
 
 ---
 
-## 🚀 What I Build
+## 02 / What I Build
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
-### 👁️ Computer Vision
+### Computer Vision
 
-Image Understanding
-Face Recognition
-Object Detection
-Image Processing
-
-</td>
-
-<td width="33%" align="center">
-
-### 🤖 Generative AI
-
-LLMs
-VLMs
-RAG
-Multimodal AI
+* Image understanding
+* Face recognition
+* Object detection
+* Image processing
+* Visual AI systems
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
-### ⚙️ AI Engineering
+### Generative AI
 
-Model Training
-Fine-tuning
-Inference
-Deployment
+* Large Language Models
+* Vision Language Models
+* Retrieval-Augmented Generation
+* Multimodal AI
+* AI applications
+
+</td>
+
+<td width="33%" valign="top">
+
+### AI Engineering
+
+* Model training
+* Fine-tuning
+* Inference
+* Optimization
+* Deployment
 
 </td>
 </tr>
@@ -65,20 +76,7 @@ Deployment
 
 ---
 
-## 🧪 Currently Experimenting With
-
-```text
-→ Computer Vision systems
-→ LLM & VLM applications
-→ Multimodal AI
-→ Model optimization
-→ AI inference pipelines
-→ Scalable machine learning systems
-```
-
----
-
-## 🛠️ Tech Stack
+## 03 / Technology
 
 ### Languages
 
@@ -86,19 +84,19 @@ Deployment
 <img src="https://skillicons.dev/icons?i=python,cpp,sql" />
 </p>
 
-### AI / Machine Learning
+### Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 </p>
 
-### AI & Computer Vision
+### Computer Vision & AI
 
-`ONNX` `OpenCV` `FAISS` `Computer Vision` `Deep Learning`
+`OpenCV` · `ONNX` · `FAISS` · `Deep Learning` · `Computer Vision`
 
 ### Generative AI
 
-`LLMs` `VLMs` `RAG` `LangChain` `LangGraph` `Multimodal AI`
+`LLMs` · `VLMs` · `RAG` · `LangChain` · `LangGraph` · `Multimodal AI`
 
 ### Engineering
 
@@ -108,52 +106,80 @@ Deployment
 
 ---
 
-## 🚀 Featured Projects
+## 04 / Currently Exploring
+
+```text
+Computer Vision
+Multimodal AI
+Large Language Models
+Vision Language Models
+Model Optimization
+AI Inference
+Scalable AI Systems
+```
+
+---
+
+## 05 / Experience
+
+### Deep Learning Engineer
+
+**Unikrew Solutions**
+
+Working across Computer Vision, LLMs, VLMs, and Machine Learning.
+
+Responsibilities include data collection and preprocessing, model development, training, fine-tuning, experimentation, evaluation, and building practical AI solutions.
+
+---
+
+### Associate Deep Learning Engineer
+
+Worked on practical machine learning and deep learning projects while developing experience across computer vision, model training, experimentation, and AI engineering workflows.
+
+---
+
+## 06 / Selected Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎯 Computer Vision
+### Computer Vision Systems
 
-Computer vision projects involving object detection, image processing, deep learning, and visual understanding.
+Computer vision projects involving object detection, image processing, visual understanding, and deep learning.
 
-**Focus:**
 `Python` `PyTorch` `OpenCV` `YOLO`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 Generative AI
+### Generative AI Applications
 
 Experiments and applications involving LLMs, VLMs, retrieval, and multimodal AI.
 
-**Focus:**
 `LLMs` `VLMs` `RAG` `LangChain`
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 Deep Learning
+### Deep Learning Projects
 
-Deep learning experiments involving model training, fine-tuning, evaluation, and experimentation.
+Model training, fine-tuning, evaluation, and experimentation across different deep learning architectures.
 
-**Focus:**
 `PyTorch` `TensorFlow` `ONNX`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔬 AI Research & Experiments
+### AI Research & Experiments
 
-Exploring new architectures, models, optimization techniques, and practical AI systems.
+Exploring architectures, models, optimization techniques, and practical AI systems.
 
-**Focus:**
 `Machine Learning` `Deep Learning` `AI`
 
 </td>
@@ -162,97 +188,71 @@ Exploring new architectures, models, optimization techniques, and practical AI s
 
 ---
 
-## 💼 Experience
-
-### 🧠 Deep Learning Engineer
-
-**Unikrew Solutions**
-
-Working across **Computer Vision, LLMs, VLMs, and Machine Learning**, with responsibilities spanning data preparation, model development, fine-tuning, experimentation, evaluation, and AI system development.
-
----
-
-### 🤖 Associate Deep Learning Engineer
-
-Worked on practical machine learning and deep learning tasks while developing experience with model training, computer vision workflows, and AI engineering.
-
----
-
-## ⚙️ Engineering Philosophy
-
-> **Build it. Measure it. Understand it. Improve it.**
-
-I like understanding what's happening under the hood rather than treating models as black boxes.
-
-My approach is usually:
+## 07 / Engineering Principles
 
 ```text
-Idea
- ↓
-Experiment
- ↓
-Measure
- ↓
-Understand
- ↓
-Improve
- ↓
 Build
+  ↓
+Measure
+  ↓
+Understand
+  ↓
+Improve
+  ↓
+Repeat
+```
+
+I prefer understanding what happens underneath a system rather than treating models and frameworks as black boxes.
+
+---
+
+## 08 / Beyond Engineering
+
+```text
+Sketching
+Competitive FPS
+Anime & Sci-Fi
+Reading
 ```
 
 ---
 
-## 🎮 Beyond Code
-
-When I'm not working with models:
-
-🎨 **Sketching**
-🎮 **FPS & competitive games**
-🌌 **Anime & sci-fi**
-📚 **Reading**
-
----
-
-## 📊 GitHub Stats
+## 09 / GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rafay-ai&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rafay-ai&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafay-ai&layout=compact&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafay-ai&layout=compact&hide_border=true&theme=transparent" height="170"/>
 
 </div>
 
 ---
 
-## 🐍 Contributions
+## 10 / Contributions
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rafay-ai/rafay-ai/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/rafay-ai/rafay-ai/output/github-contribution-grid-snake.svg" alt="Contribution Graph"/>
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## Connect
 
 <div align="center">
 
 <a href="https://github.com/rafay-ai">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-### 🚀 Building, experimenting, and turning ideas into AI systems.
+`Building · Experimenting · Learning`
 
 </div>
