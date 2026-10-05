@@ -8,12 +8,6 @@
 
 <br>
 
-<a href="https://github.com/rafay-ai">
-  <img src="https://img.shields.io/github/followers/rafay-ai?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
-</a>
-<a href="https://github.com/rafay-ai?tab=repositories">
-  <img src="https://img.shields.io/github/stars/rafay-ai?label=Stars&style=for-the-badge" alt="GitHub Stars"/>
-</a>
 
 </div>
 
