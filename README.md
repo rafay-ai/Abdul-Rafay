@@ -212,12 +212,19 @@ I prefer understanding what happens underneath a system rather than treating mod
 
 ## Outside of Work
 
-```text
-Sketching
-Competitive FPS
-Anime & Sci-Fi
-Reading
-```
+<div align="center">
+
+<img
+  src="./art.jpeg"
+  width="520"
+  alt="Sketch by Abdul Rafay"
+/>
+
+<br>
+
+<sub>A little of what happens when I'm not building AI systems.</sub>
+
+</div>
 
 ---
 
